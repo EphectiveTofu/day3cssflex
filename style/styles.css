@@ -2,7 +2,10 @@ body {
     background-color: cadetblue;
 }
 
-
+.my-nav {
+   display: flex;
+   justify-content:space-evenly ;
+}
 
 
 .flex-container {
